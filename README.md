@@ -6,4 +6,4 @@ Glove Embedding : http://nlp.stanford.edu/data/glove.42B.300d.zip <br>
 Model weights: https://drive.google.com/file/d/1jNdI7l6-2hPWfaEKf9ymOJobTc16vNt3/view?usp=sharing <br>
 Model: https://drive.google.com/file/d/1jNdI7l6-2hPWfaEKf9ymOJobTc16vNt3/view?usp=sharing <br>
 Dataset: https://drive.google.com/file/d/1jNdI7l6-2hPWfaEKf9ymOJobTc16vNt3/view?usp=sharing
-
+Paper: https://drive.google.com/file/d/16INztKcT2IwVktUuGTt_lviM_ms0hdRG/view?usp=sharing
